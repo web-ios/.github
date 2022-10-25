@@ -1,13 +1,8 @@
-## Hi there 👋
+# app-demo
 
-<!--
 
-**Here are some ideas to get you started:**
+<code>![1-preview](https://user-images.githubusercontent.com/87497469/197793775-fff74011-59ae-436a-90ca-bdd02c49bf02.png)</code>
+<code>![1-preview](https://user-images.githubusercontent.com/87497469/197793775-fff74011-59ae-436a-90ca-bdd02c49bf02.png)</code><br><br>
+<code>![3-preview](https://user-images.githubusercontent.com/87497469/197793704-960006fd-87e1-4e11-bd81-3746b49e70e4.png)</code>
+<code>![4-preview](https://user-images.githubusercontent.com/87497469/197793690-e68fd275-ca14-4324-90a3-c8e4c4ddc0a8.png)</code>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-hihii
